@@ -1,5 +1,3 @@
-# MotoTech
-Sistema para administrar talleres de motos.
 # Proyecto MotoTech
 
 Este proyecto se enfoca en la digitalización y optimización de talleres de motocicletas a través de:
