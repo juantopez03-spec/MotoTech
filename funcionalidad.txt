@@ -1,0 +1,11 @@
+SISTEMA MOTOTECH - MÓDULO DE INVENTARIO
+1. Registro de repuestos (Nombre, marca, cantidad).
+2. Alerta de stock bajo.
+
+MÓDULO DE SERVICIOS
+1. Registro de entrada de motocicletas (Placa, modelo, falla).
+2. Seguimiento de reparaciones en tiempo real.
+
+GESTIÓN DE PROVEEDORES
+1. Directorio de proveedores de repuestos.
+2. Historial de compras y facturación.
