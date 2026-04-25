@@ -1,4 +1,4 @@
-SISTEMA MOTOTECH - MÓDULO DE INVENTARIO ------Version lorena 
+SISTEMA MOTOTECH - MÓDULO DE INVENTARIO
 1. Registro de repuestos (Nombre, marca, cantidad).
 2. Alerta de stock bajo.
 
