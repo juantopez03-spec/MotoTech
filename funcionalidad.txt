@@ -1,4 +1,4 @@
-SISTEMA MOTOTECH - MÓDULO DE INVENTARIO
+SISTEMA MOTOTECH - MÓDULO DE INVENTARIO ---VERSION PRUEBAS
 1. Registro de repuestos (Nombre, marca, cantidad).
 2. Alerta de stock bajo.
 
