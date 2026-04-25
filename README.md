@@ -5,3 +5,4 @@ Este proyecto se enfoca en la digitalización y optimización de talleres de mot
 **Gestión de repuestos**: Control detallado de piezas y stock.
 **Servicios de mantenimiento**: Registro y seguimiento de reparaciones.
 **Control de inventario**: Gestión de entradas, salidas y proveedores.
+**Organización de procesos**: Facilita el control de la información del taller para mejorar la atención, el seguimiento de servicios y la toma de decisiones.
